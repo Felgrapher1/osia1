@@ -1,2 +1,2 @@
-print("Hello World! and stanford")
+print("Hello World! and stanford and minah")
 
